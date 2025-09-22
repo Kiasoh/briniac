@@ -1,0 +1,8 @@
+.env
+# storage/*
+# privateKey.pem
+# publicKey.pem
+
+# SSL
+
+.DS_STORE
